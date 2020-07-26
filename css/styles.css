@@ -1,0 +1,110 @@
+body{
+    background-color: aqua;
+}
+main #sec_encabezado h1{
+    background-color: #c7dbf5;
+    color: white;
+    text-align: center;
+    padding: 2% 5% 2% 5%;
+  font-size: 45px;
+}
+
+header #boton_login{
+    padding: 3px;
+    text-align: end;
+    height: 5px;
+
+}
+header #boton_tribute{
+    padding:3px;
+    text-align: start;
+    height: 15px;
+}
+.btn{
+    text-decoration: none;
+    border-radius: 3px;
+    padding: 10px 15px;
+    display: inline-block;
+    text-shadow: 0 1px 0 rgb(rgb(235, 240, 243));
+
+}
+.btn_tribute{
+    color: azure;
+    background-color: darkgreen;
+    
+}
+header .pag_code_cam{
+    text-decoration: none;
+    color: black;
+    font-size: medium;
+    padding: 10px;
+}
+img {
+    padding: 1px 4px 5px 50px;
+}
+.btn-blue{
+    color:azure;
+    background-color: yellowgreen;
+    width: 6em;
+    justify-self: center;
+    text-align: center;
+   
+}
+header #boton_login #boton_vista{
+    color: rgb(245, 241, 237);
+    background-color: darkolivegreen;
+    text-align: center;
+    width: 6em;
+}
+    
+
+
+header #boton_login #boton_sig_up{
+    color: darkturquoise;
+    background-color: rgb(21, 143, 68);
+    text-align: center;
+    width: 6em;
+}
+
+
+main #img_prin {
+    text-align: center;
+    background-color: white;
+    
+}
+main #img_prin p{
+    text-align: center;
+    font-size: 18px;
+   
+}
+main #sec_encabezado h1{
+    color: black;
+}
+main #logros #titu_logros{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+main #logros{
+    text-align: auto;
+    padding: 2% 30% 3% 300px;
+    font-family: Arial, Helvetica, sans-serif;
+} 
+main #sec_frase p{
+    text-align: center;
+    padding: 2% 25% 3% 200px;
+    font-family: cursive;
+}
+li{
+    margin: 16px;
+}
+ul {
+
+    line-height: 1.6;
+}
+footer p{
+text-align: center;
+font-weight: bold;
+font-size: 25px;
+}
+
+
