@@ -28,7 +28,7 @@ header #boton_tribute{
     text-shadow: 0 1px 0 rgb(rgb(235, 240, 243));
 
 }
-.btn_tribute{
+.img-div{
     color: azure;
     background-color: darkgreen;
     
@@ -39,9 +39,18 @@ header .pag_code_cam{
     font-size: medium;
     padding: 10px;
 }
-img {
-    padding: 1px 4px 5px 50px;
+header #imagen {
+    max-width: none;
 }
+img {
+        padding: 1px 4px 5px 50px;
+        display: block;
+        margin: 0 auto;
+        max-width: 100%;
+        width: 80%;
+
+}
+    
 .btn-blue{
     color:azure;
     background-color: yellowgreen;
@@ -69,12 +78,13 @@ header #boton_login #boton_sig_up{
 
 main #img_prin {
     text-align: center;
-    background-color: white;
-    
+    background-color: white;    
 }
+
 main #img_prin p{
     text-align: center;
     font-size: 18px;
+    
    
 }
 main #sec_encabezado h1{
